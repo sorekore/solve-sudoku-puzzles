@@ -6,15 +6,15 @@
 #
 # Created:     25/04/2020
 # Copyright:   sorekore
-# Licence:     
+# Licence:
 #-------------------------------------------------------------------------------
 
 import csv
 
 # Windows用
-#file_path = 'C:\\Users\\mytoshiba\\Desktop\\suudoku\\'
+file_path = 'C:\\Users\\mytoshiba\\Desktop\\git\\solve-sudoku-puzzles\\'
 # Mac用
-file_path = '/home/jovyan/work/solve-sudoku-puzzles/'
+# file_path = '/home/jovyan/work/solve-sudoku-puzzles/'
 # ファイル名
 file_name = 'mondai.csv'
 
